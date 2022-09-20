@@ -8,6 +8,7 @@ this repository for the subject which will host all of my laboratory works with 
 3- Make sure to have [Composer](https://getcomposer.org/) installed and [NODEJS](https://nodejs.org/en/download/) you can find them by clicking on them. </br>
 4- Use PHPStorm or VS-Code for easier code editing. </br>
 5- Run the following codes in the terminal but make sure that your terminal in the right project directory
+
 ```bash
 composer install
 ```
@@ -17,3 +18,6 @@ npm install
 ```bash
 npm run dev
 ```
+
+# pull requests
+if you'll find any error or mistake just make a pull request and we will fix them together.
