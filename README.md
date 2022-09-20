@@ -7,8 +7,8 @@ this repository for the subject which will host all of my laboratory works with 
 2- You have to install it as a zip file then extract it to the "www" in (wamp) or "htdocs" in "xampp". </br>
 3- Make sure to have [Composer](https://getcomposer.org/) installed and [NODEJS](https://nodejs.org/en/download/) you can find them by clicking on them. </br>
 4- Use PHPStorm or VS-Code for easier code editing. </br>
-5- Run the following codes in the terminal but make sure that your terminal in the right project directory
-
+5- Run the following codes in the terminal but make sure that your terminal in the right project directory </br>
+6- change the .env.example into .env
 ```bash
 composer install
 ```
